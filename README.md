@@ -1,4 +1,3 @@
-��# Hayji
 # Hayji - DevOps
 
 ## Table des matières
