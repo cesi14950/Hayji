@@ -145,7 +145,3 @@ gitGraph
 - [GitHub - Fork et Pull Request](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ---
-
-## Auteur
-
-Projet CESI - Hayji DevOps
